@@ -4,7 +4,7 @@
 
 ### 2.1 NSGA-II Implementation
 
-- [ ] Implement NSGA-II algorithm
+- [ ] Implement NSGA-II algorithm(Thomas & ...)
   - [ ] Define individual representation
   - [ ] Implement selection operator
   - [ ] Implement crossover operator
