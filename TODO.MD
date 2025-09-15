@@ -2,9 +2,9 @@
 
 ## 2️⃣ Programming Tasks
 
-### 2.1 NSGA-II Implementation
+### 2.1 NSGA-II Implementation(Thomas & Seb)
 
-- [ ] Implement NSGA-II algorithm(Thomas & Seb)
+- [ ] Implement NSGA-II algorithm
   - [ ] Define individual representation
   - [ ] Implement selection operator
   - [ ] Implement crossover operator
@@ -20,9 +20,9 @@
   - [ ] Runtime for each dataset
   - [ ] Convergence plots
 
-### 2.2 SPEA2 Implementation
+### 2.2 SPEA2 Implementation(Max & Felix)
 
-- [ ] Implement SPEA2 algorithm(Max & Felix)
+- [ ] Implement SPEA2 algorithm
   - [ ] Define individual representation
   - [ ] Implement selection operator
   - [ ] Implement crossover operator
