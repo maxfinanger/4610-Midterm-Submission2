@@ -4,21 +4,21 @@
 
 ### 2.1 NSGA-II Implementation
 
--   [ ] Implement NSGA-II algorithm
-    -   [ ] Define individual representation
-    -   [ ] Implement selection operator
-    -   [ ] Implement crossover operator
-    -   [ ] Implement mutation operator
-    -   [ ] Implement non-dominated sorting
-    -   [ ] Implement crowding distance calculation
--   [ ] Test NSGA-II on:
-    -   [ ] Small dataset
-    -   [ ] Medium dataset
-    -   [ ] Large dataset
--   [ ] Collect results:
-    -   [ ] Objective function values
-    -   [ ] Runtime for each dataset
-    -   [ ] Convergence plots
+- [ ] Implement NSGA-II algorithm(Thomas & ...)
+  - [ ] Define individual representation
+  - [ ] Implement selection operator
+  - [ ] Implement crossover operator
+  - [ ] Implement mutation operator
+  - [ ] Implement non-dominated sorting
+  - [ ] Implement crowding distance calculation
+- [ ] Test NSGA-II on:
+  - [ ] Small dataset
+  - [ ] Medium dataset
+  - [ ] Large dataset
+- [ ] Collect results:
+  - [ ] Objective function values
+  - [ ] Runtime for each dataset
+  - [ ] Convergence plots
 
 ### 2.2 SPEA2 Implementation
 
