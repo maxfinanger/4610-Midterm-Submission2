@@ -35,8 +35,8 @@
 
 - [ ] Collect results:
   - [ ] Objective function values
-  - [ ] Runtime for each dataset
-  - [ ] Convergence plots
+  - [x] Runtime for each dataset
+  - [x] Convergence plots
 - [ ] Compare NSGA-II vs SPEA2 results
   - [ ] Convergence speed
   - [ ] Solution diversity
