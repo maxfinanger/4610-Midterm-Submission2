@@ -4,7 +4,7 @@
 
 ### 2.1 NSGA-II Implementation(Thomas & Seb)
 
-- [ ] Implement NSGA-II algorithm
+- [x] Implement NSGA-II algorithm
   - [x] Define individual representation
   - [x] Implement selection operator
   - [x] Implement crossover operator
@@ -35,8 +35,8 @@
 
 - [ ] Collect results:
   - [ ] Objective function values
-  - [ ] Runtime for each dataset
-  - [ ] Convergence plots
+  - [x] Runtime for each dataset
+  - [x] Convergence plots
 - [ ] Compare NSGA-II vs SPEA2 results
   - [ ] Convergence speed
   - [ ] Solution diversity
